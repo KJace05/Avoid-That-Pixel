@@ -48,8 +48,6 @@ avoid-that-pixel/
 └── README.md
 ```
 
-> *Adjust this structure to match your actual folder layout once uploaded.*
-
 ## Getting Started
 
 1. Flash `firmware/avoid_that_pixel.ino` to an Arduino Uno using the Arduino IDE.
