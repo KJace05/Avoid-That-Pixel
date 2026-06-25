@@ -44,7 +44,7 @@ avoid-that-pixel/
 │   ├── avoid_that_pixel.kicad_sch
 │   └── avoid_that_pixel.kicad_pcb
 ├── docs/
-│   └── images/                  # PCB renders, gameplay photos
+│   └── media/                  # PCB renders, gameplay photos
 └── README.md
 ```
 
